@@ -11,7 +11,7 @@ public class Main {
         LinkedList linkedList = new LinkedList();
         Methods functions = new Methods();
 
-        System.out.println("Hey there !! My name is Tushar Saxena " +
+        System.out.println("Hey there !! My name is Abhishek Gupta " +
                 ".. Here what can I do for you--->>");
         int c = 0;
         while (c != 5) {

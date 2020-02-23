@@ -65,7 +65,7 @@ public class Methods {
         while (true) {
             String temp = scanner.nextLine();
             if (temp.matches("^[a-z]+[0-9]+@[a-z]+\\.[a-z]+$")) {
-//               String email = temp;
+                //               String email = temp;
                 linkedList.addLast(new Person(firstName, lastName, arrayList, temp));
                 break;
             } else {
